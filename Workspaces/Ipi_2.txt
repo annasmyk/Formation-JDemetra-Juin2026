@@ -1,0 +1,96 @@
+Refreshing data
+Opening...
+RF1041
+ processed
+IPI_nace4
+RF1086
+ processed
+IPI_nace4
+RF1011
+ processed
+IPI_nace4
+RF1051
+ processed
+IPI_nace4
+RF1391
+ processed
+IPI_nace4
+RF1081
+ processed
+RF1042
+ processed
+RF1051
+ processed
+IPI_nace4
+RF1200
+ processed
+RF1039
+ processed
+RF1052
+ processed
+Flushing bundle...
+Generate Output
+Csv matrix
+generated
+csv
+generated
+Csv Arrays
+generated
+Saving new processing...
+Refreshing data
+Opening...
+IPI_nace4
+RF0893
+ processed
+IPI_nace4
+RF0899
+ processed
+IPI_nace4
+RF1012
+ processed
+IPI_nace4
+RF0812
+ processed
+IPI_nace4
+RF1011
+ processed
+Flushing bundle...
+Generate Output
+Csv matrix
+generated
+csv
+generated
+Csv Arrays
+generated
+Saving new processing...
+Refreshing data
+Opening...
+RF1013
+ processed
+RF0899
+ processed
+RF1032
+ processed
+RF1011
+ processed
+RF1020
+ processed
+RF1031
+ processed
+RF0812
+ processed
+RF1039
+ processed
+RF0893
+ processed
+RF1012
+ processed
+Flushing bundle...
+Generate Output
+Csv matrix
+generated
+csv
+generated
+Csv Arrays
+generated
+Saving new processing...
